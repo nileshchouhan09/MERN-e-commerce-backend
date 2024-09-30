@@ -10,7 +10,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## Install Dependencies
 	For Backend npm i && npm run build
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
 
 ## Env Variable
 
